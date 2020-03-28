@@ -1,4 +1,3 @@
-
 html {
     background-color: #002b36;
     color: #839496;
@@ -6,28 +5,22 @@ html {
 }
 body {
     background-color: #002b36;
-    margin: 0 auto;
-    padding: 0;
-    max-width: 23cm;
+    text-alight : left;
 }
-a {
-    color: #b58900;
+
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: auto;
+    margin-top: auto;
 }
+
 h1 {
     font-size: 2.8em;
     line-height:10px;
     margin-bottom: 0.67em;
+	  letter-spacing: 2px;
 }
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #839496;
-    line-height:0px;
-    margin-bottom: 0.77em;
 
-}
 h2 {
     font-size: 2.4em;
 }
@@ -44,39 +37,24 @@ h6 {
     font-size: 1.15em;
 }
 
-a:active,
-a:hover {
-    outline: 0;
-}
 a {
     color: #b58900;
     text-decoration: none;
 }
-a:visited {
-    color: #b58900;
-}
+
 a:hover {
     color: #cb4b16;
 }
-
-.nav {
-    background-color: #073642;
-    color: #839496;
-    list-style: none;
-    text-align: center;
-    padding: 20px 0 20px 0;
+html, body {
+    height: 100%;
 }
 
-.nav > li {
-    display: inline-block;
-    padding: 0 25px 0 25px;
+html {
+    display: table;
+    margin: auto;
 }
 
-.nav > li > a {
-    text-decoration: none;
-    color: #839496;
-}
-
-.nav > li > a:hover {
-    color: #cb4b16;
+body {
+    display: table-cell;
+    vertical-align: middle;
 }
