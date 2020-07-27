@@ -1,10 +1,10 @@
 html {
-    background-color: #002b36;
-    color: #839496;
-    font-family: 'Source Code Pro', monospace;
+    /* background-color: #002b36; */
+    /* color: #839496; */
+    /* font-family: 'Source Code Pro', monospace; */
 }
 body {
-    background-color: #002b36;
+    /* background-color: #002b36; */
     text-alight : left;
 }
 
@@ -38,12 +38,12 @@ h6 {
 }
 
 a {
-    color: #b58900;
+    /* color: #b58900; */
     text-decoration: none;
 }
 
 a:hover {
-    color: #cb4b16;
+    /* color: #cb4b16; */
 }
 html, body {
     height: 100%;
