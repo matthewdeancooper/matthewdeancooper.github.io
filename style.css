@@ -1,7 +1,7 @@
 html {
     background-color: #181a1b;
     color: #b9b7ab;
-    font-family: 'Droid Sans';
+    /* font-family: 'Droid Sans'; */
     display: table;
     margin: auto;
     height: 100%;
@@ -27,13 +27,13 @@ h1 {
     margin-top: 0.40em;
 	  letter-spacing: 2px;
     color: #b9b7ab;
-    font-family: 'Droid Sans';
+    /* font-family: 'Droid Sans'; */
 }
 
 h4 {
     font-size: 1.05em;
     color: #b9b7ab;
-    font-family: 'Droid Sans';
+    /* font-family: 'Droid Sans'; */
 }
 
 a {
