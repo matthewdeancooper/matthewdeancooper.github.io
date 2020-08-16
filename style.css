@@ -1,6 +1,6 @@
 html {
-    background-color: #181a1b;
-    color: #b9b7ab;
+    /* background-color: #181a1b; */
+    /* color: #b9b7ab; */
     /* font-family: 'Droid Sans'; */
     display: table;
     margin: auto;
@@ -26,13 +26,13 @@ h1 {
     margin-bottom: 0.65em;
     margin-top: 0.40em;
 	  letter-spacing: 2px;
-    color: #b9b7ab;
+    /* color: #b9b7ab; */
     /* font-family: 'Droid Sans'; */
 }
 
 h4 {
     font-size: 1.05em;
-    color: #b9b7ab;
+    /* color: #b9b7ab; */
     /* font-family: 'Droid Sans'; */
 }
 
@@ -40,8 +40,4 @@ a {
     /* color: #b58900; */
     text-decoration: none;
     font-size: .95em;
-}
-
-a:hover {
-    /* color: #cb4b16; */
 }
